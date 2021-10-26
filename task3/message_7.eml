@@ -1,0 +1,50 @@
+Subject: Doctor's Appointment
+From: stice.lynette@oops.net
+To: oops_tech@oops.net
+Cc:
+Bcc:
+Date: Mon, 15 Mar 2021 19:56:21 +0000
+Message-ID: <161583818100.22130.3800507676062687937@oops.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5967465278910694044=="
+
+--===============5967465278910694044==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+All,
+
+I have a denist's appointment @ 8:30 am today --and will return after the appointment around 9:30am.
+
+Cheers,
+Lynette
+
+Cordially,
+Lynette M. Stice
+OOPS Inc.
+5602 Figueroa Lakes
+Port Phillipshire, IL 80380
+Tel: 519-555-1442
+
+--===============5967465278910694044==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+	<p>All,</p>
+
+	<p>I have a denist&#8217;s appointment @ 8:30 am today &#8212;and will return after the appointment around 9:30am.</p>
+
+	<p>Cheers,<br />
+Lynette</p>
+
+	<p>Cordially,<br />
+Lynette M. Stice<br />
+OOPS Inc.<br />
+5602 Figueroa Lakes<br />
+Port Phillipshire, IL 80380<br />
+Tel: 519-555-1442</p>
+
+--===============5967465278910694044==--
