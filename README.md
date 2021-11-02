@@ -2,24 +2,71 @@
 
 My solutions to CodeBreaker Tasks
 
-https://nsa-codebreaker.org/challenge
+[NSA Codebreaker Challenge](https://nsa-codebreaker.org/challenge)
 
-[X] Task 1
+- [X] Task 0 (Community of Practice, Discord Server) 
 
-[X] Task 2
+##### Points: 1
 
-[X] Task 3
+##### Completed: Fri, 10 Sep 2021 13:16:53 GMT
 
-[ ] Task 4
+- [X] Task 1 (Network Forensics, Command Line) 
 
-[ ] Task 5
+##### Points: 25
 
-[ ] Task 6
+##### Completed: Sat, 11 Sep 2021 20:32:24 GMT
 
-[ ] Task 7
 
-[ ] Task 8
+- [X] Task 2 (Network Forensics, Command Line) 
 
-[ ] Task 9
+##### Points: 50
 
-[ ] Task 10
+##### Completed: Wed, 15 Sep 2021 13:15:27 GMT
+
+- [X] Task 3 (Log Analysis) 
+
+##### Points: 50
+
+##### Completed: Thu, 23 Sep 2021 13:54:06 GMT
+
+- [ ] Task 4 (PowerShell, Registry Analysis)
+
+##### Points: 150
+
+##### Completed: N/A
+
+- [ ] Task 5
+
+##### Points: 300
+
+##### Completed: N/A
+
+- [ ] Task 6
+
+##### Points: 500
+
+##### Completed: N/A
+
+- [ ] Task 7
+
+##### Points: 500
+
+##### Completed: N/A
+
+- [ ] Task 8
+
+##### Points: 3000
+
+##### Completed: N/A
+
+- [ ] Task 9
+
+##### Points: 3500
+
+##### Completed: N/A
+
+- [ ] Task 10
+
+##### Points: 5000
+
+##### Completed: N/A
